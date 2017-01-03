@@ -1,3 +1,4 @@
+// Test
 $(document).ready(function(){
   $("#1").click(function(){
     $("#hidden1").css("display", "inline")
